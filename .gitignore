@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Large Data Files
+Resources/LoanStats_2019Q1.csv
