@@ -20,11 +20,24 @@ The following models were used for this project:
 - Balanced Random Forest Classifier  
 - Easy Ensemble Classifier  
 
-The following calculations per formered for each model of analysis:  
+The following calculations were performered for each model of analysis:  
 - Accuracy Score  
+  - measures how many obervations our model predicted correctly.  
+  - acc = TP + TN / (Total observations)  
 - Precision  
+  - measures the reliability of a positive classification.  
+  - pre = TP / (TP + FP)  
 - Recall/Sensitivity  
+  - measures the ability to find all positive samples.  
+  - rec = TP / (TP + FN)  
 - F1 Score  
+  - single summary statistic of precision and sensitivity.  
+  - F1 = 2(pre * rec) / (pre + rec)  
+
+|---|Predicted Low Risk|Predicted High Risk|
+|:-:|:----------------:|:-----------------:|
+|Actual Low Risk|True Positive (TP)|False Negative (FN)|
+|Actual High Risk|False Positive (FP)|True Negative (TN)|
 
 **Results:**  
 
