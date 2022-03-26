@@ -44,7 +44,7 @@ The following calculations were performered for each model of analysis:
 <img src="Resources/SMOTE_oversampling.PNG">  
 <img src="Resources/undersampling.PNG">  
 <img src="Resources/SMOTEEN_combined_over_undersampling.PNG">  
-<img src="Resources/bal_random_forest_classifier.PNG">  
+<img src="Resources/balanced_random_forest_classifier.PNG">  
 <img src="Resources/easy_ensemble_classifier.PNG">  
 
 ## Summary  
