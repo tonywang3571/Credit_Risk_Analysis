@@ -32,7 +32,7 @@ The following calculations were performered for each model of analysis:
   - rec = TP / (TP + FN)  
 - F1 Score  
   - single summary statistic of precision and sensitivity.  
-  - F1 = 2(pre * rec) / (pre + rec)  
+  - F1 = 2 (pre * rec) / (pre + rec)  
 
 ||Predicted Low Risk|Predicted High Risk|
 |:-:|:----------------:|:-----------------:|
@@ -40,7 +40,12 @@ The following calculations were performered for each model of analysis:
 |Actual High Risk|False Positive (FP)|True Negative (TN)|
 
 **Results:**  
-
+<img src="Resources/random_oversampling.PNG">  
+<img src="Resources/SMOTE_oversampling.PNG">  
+<img src="Resources/undersampling.PNG">  
+<img src="Resources/SMOTEEN_combined_over_undersampling.PNG">  
+<img src="Resources/balanced_random_forest_classifier.PNG">  
+<img src="Resources/easy_ensemble_classifier.PNG">  
 
 ## Summary  
 
