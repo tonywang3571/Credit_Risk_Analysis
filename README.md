@@ -52,7 +52,7 @@ We can see from the images below, Easy Ensemble Classifier model had the highest
 ## Summary  
 
 **Conclusion**  
-There are many things to consider when reading the results of the models. One thing to consider would be false positive result (high risk applicants identified as low risk). This would approve high risk applicants for loans when they should be denied, since they may not be able to pay off their loans. A model with high recall/sensitivity will have lower false negative results. Another consideration would be false negative result (low risk applicants identified as high risk). This would deny more people for loans who may have been a good candidate for loans. A model with high precision will have a lower false positive results. I would recommend the Easy Ensemble Clasifier model because it resulted in the highest accuracy, precision, and recall/sensitivity values when compared to the other models.  
+One thing to consider would be false positive result (high risk applicants identified as low risk). This would approve high risk applicants for loans when they should be denied, as they may not be able to pay off their loans. A model with high precision will have lower false positive results. Another consideration would be false negative result (low risk applicants identified as high risk). This would deny more people for loans who may have been a good candidate for loans. A model with high recall/sensitivity will have a lower false negative results. I would recommend the Easy Ensemble Clasifier model because it resulted in the highest accuracy, precision, and recall/sensitivity values when compared to the other models.  
 
 ### Codes Used  
 (Please look at specific files for codes used)  
