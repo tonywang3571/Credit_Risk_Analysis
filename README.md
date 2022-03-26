@@ -34,7 +34,7 @@ The following calculations were performered for each model of analysis:
   - single summary statistic of precision and sensitivity.  
   - F1 = 2(pre * rec) / (pre + rec)  
 
-|---|Predicted Low Risk|Predicted High Risk|
+||Predicted Low Risk|Predicted High Risk|
 |:-:|:----------------:|:-----------------:|
 |Actual Low Risk|True Positive (TP)|False Negative (FN)|
 |Actual High Risk|False Positive (FP)|True Negative (TN)|
